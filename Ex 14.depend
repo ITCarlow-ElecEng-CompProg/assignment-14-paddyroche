@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1517589014 source:g:\paddy yr2\comp prog\ex 14\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<cstdlib>
+
+1517338966 source:d:\paddy yr2\comp prog\ex 14\main.cpp
+	<iostream>
+	<math.h>
+	<fstream>
+	<cstdlib>
+
